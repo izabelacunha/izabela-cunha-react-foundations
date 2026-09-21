@@ -25,8 +25,8 @@ function LikeButton() {
         ]
     }, void 0, true, {
         fileName: "[project]/app/like-button.js",
-        lineNumber: 12,
-        columnNumber: 10
+        lineNumber: 13,
+        columnNumber: 5
     }, this);
 }
 }),
